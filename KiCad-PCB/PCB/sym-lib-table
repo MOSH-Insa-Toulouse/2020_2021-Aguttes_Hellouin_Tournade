@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name Connector_Generic)(type Legacy)(uri ${KIPRJMOD}/Connector_Generic.lib)(options "")(descr ""))
+  (lib (name gas_sensor_shield-cache)(type Legacy)(uri ${KIPRJMOD}/gas_sensor_shield-cache.lib)(options "")(descr ""))
+  (lib (name Sensor_Gas)(type Legacy)(uri ${KIPRJMOD}/Sensor_Gas.lib)(options "")(descr ""))
+  (lib (name gas_sensor_shield-rescue)(type Legacy)(uri ${KIPRJMOD}/gas_sensor_shield-rescue.lib)(options "")(descr ""))
+  (lib (name RN2483-I_RM095)(type Legacy)(uri C:/Users/auref/5ISS/pcb/MICROCHIP_RN2483-I/RN2483-I_RM095.lib)(options "")(descr ""))
+)
